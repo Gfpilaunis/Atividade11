@@ -1,0 +1,7 @@
+git fetch
+
+git pull origin main --allow-unrelated-histories
+
+git checkout --ours -- .
+
+git add *
