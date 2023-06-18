@@ -1,0 +1,33 @@
+git init
+
+git branch -m Main
+
+git remote add
+
+git fetch
+
+git add*
+
+git status
+
+git stash
+
+git pull origin main
+
+git stash aplly
+
+git checkout --ours -- .
+
+git add*
+
+git commit
+
+git push
+
+
+
+git pull origin main --allow-unrelated histories
+
+
+
+git add *
